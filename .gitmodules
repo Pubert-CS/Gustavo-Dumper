@@ -1,0 +1,12 @@
+[submodule "app/src/main/cpp/extern/StringUtils"]
+	path = app/src/main/cpp/extern/StringUtils
+	url = https://github.com/hungtatai/StringUtils
+[submodule "app/src/main/cpp/extern/json"]
+	path = app/src/main/cpp/extern/json
+	url = https://github.com/nlohmann/json
+[submodule "app/src/main/extern/KittyMemory"]
+	path = app/src/main/extern/KittyMemory
+	url = https://github.com/MJx0/KittyMemory/
+[submodule "app/src/main/cpp/extern/KittyMemory"]
+	path = app/src/main/cpp/extern/KittyMemory
+	url = https://github.com/MJx0/KittyMemory/
